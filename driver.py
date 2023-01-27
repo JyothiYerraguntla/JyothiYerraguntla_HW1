@@ -5,11 +5,11 @@ from phone import validate_phone
 from tags import validate_tags
 
 with open('input.txt', 'r') as file:
-    lines = file.readlines()
-    for line in lines:
-        print('Input:', line)
-        print('Currency:', validate_currency(line))
-        print('Date:', validate_date(line))
-        print('Phone:', validate_phone(line))
-        print('Tags:', validate_tags(line))
+    inputs = file.readlines()
+    for input in inputs:
+        print('Input:', input)
+        print('Currency:', validate_currency(input))
+        print('Date:', validate_date(input))
+        print('Phone:', validate_phone(input))
+        print('Tags:', validate_tags(input))
         print()
