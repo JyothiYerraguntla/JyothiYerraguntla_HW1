@@ -1,0 +1,21 @@
+$954.49 is amount
+INR78 is wrong format
+USD45M  is my fee amount
+$1,000,000,023.45 is huge amount
+my account is very low -$250,000,456
++$234,922.99 is the highest gain
+67 is pay
+$4B is his turnover
+January 05, 1960 is cold day
+2021-20-32 is wrong format
+6/1/00
+04-Jul, 2004
+July-05,2002 is wrong
++1 6012664949 call him
++1 601 266-4949  is correct number
+(601)-266-4949 txt him
++2 7678975699 is wrong number
+<br> is a break tag
+<br/> is a closing break tag
+<body> is a body tag
+this is wrong tag <div
